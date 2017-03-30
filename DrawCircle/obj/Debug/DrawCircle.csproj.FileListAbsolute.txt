@@ -1,0 +1,12 @@
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\bin\Debug\DrawCircle.exe.config
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\MainWindow.baml
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\MainWindow.g.cs
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\App.g.cs
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\DrawCircle_MarkupCompile.cache
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\DrawCircle.g.resources
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\DrawCircle.Properties.Resources.resources
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\DrawCircle.csproj.GenerateResource.Cache
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\bin\Debug\DrawCircle.exe
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\bin\Debug\DrawCircle.pdb
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\DrawCircle.exe
+c:\users\kazandjievi\documents\visual studio 2013\Projects\DrawCircle\DrawCircle\obj\Debug\DrawCircle.pdb
